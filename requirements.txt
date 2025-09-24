@@ -1,0 +1,16 @@
+# Core
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.2
+
+# Visualization (optional, used in notebooks)
+matplotlib>=3.7
+seaborn>=0.12
+
+# App
+streamlit>=1.25
+
+# Testing & linting
+pytest>=7.4
+flake8>=6.1
